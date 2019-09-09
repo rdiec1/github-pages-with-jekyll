@@ -1,1 +1,4 @@
-deez nuts
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
